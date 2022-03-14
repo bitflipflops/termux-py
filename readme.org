@@ -1,2 +1,10 @@
-Wrapper library to make termux easy to work with my style of python
-Uses only the std library, because termux is a pain to deal with pip
+*** Wrapper library to make termux easy to work with my style of python
+Tries to use only the std library, because termux can be a pain to deal with pip
+
+** Core functions
+- [ ] Notifications
+  This is the main functionality I want, so I can have an easy way to ping me when I am out and about. 
+- [ ] Vibrate
+  I am interested in writing a library the sends messages through morse code through vibration patterns
+- [ ] Dialog
+  I want to be able to have little date entry scripts that use this, for tracking my exercise, shopping lists, etc
