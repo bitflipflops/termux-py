@@ -1,0 +1,2 @@
+Wrapper library to make termux easy to work with my style of python
+Uses only the std library, because termux is a pain to deal with pip
